@@ -2,6 +2,9 @@
 
 Run a banking dashboard with KPIs, Plotly charts, and a mini 3D scene for data storytelling.
 
+## Demo
+- Live app: https://classic-dashboard-with-kpis-and-graphs-3d.streamlit.app/
+
 ## Prerequisites
 - Python 3.10+
 - Windows PowerShell (or any shell)
